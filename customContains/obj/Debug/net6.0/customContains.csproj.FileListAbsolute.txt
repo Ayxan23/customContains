@@ -1,0 +1,15 @@
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\bin\Debug\net6.0\customContains.exe
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\bin\Debug\net6.0\customContains.deps.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\bin\Debug\net6.0\customContains.runtimeconfig.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\bin\Debug\net6.0\customContains.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\bin\Debug\net6.0\customContains.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.csproj.AssemblyReference.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.AssemblyInfoInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.AssemblyInfo.cs
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.csproj.CoreCompileInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\refint\customContains.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\customContains.genruntimeconfig.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\customContains\customContains\obj\Debug\net6.0\ref\customContains.dll
