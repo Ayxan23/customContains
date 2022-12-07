@@ -35,11 +35,29 @@ namespace customContains
                 {
                     index = 0;
                     test = "";
+                    if (word[i] == char.ToUpper(str[index]) || word[i] == char.ToLower(str[index]))
+                    {
+                        test += word[i];
+
+                        if (test.Length == str.Length)
+                        {
+                            result = true;
+                            break;
+                        }
+                        else if (test.Length != str.Length)
+                        {
+                            index++;
+                        }
+                    }
                 }
             }
-
             return result;            
         }
+
+
+
+
+
 
     }
 }
